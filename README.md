@@ -2,7 +2,8 @@
 Work done for bachelor thesis at IIT Bhubaneswar. 
 
 Genetic Algorithm was used to plan the path of a 3dof robot arm avoiding collisons with its body and with obstacles in the workspace.
-GJK algorithm was used to find collisions in the 3D space
+
+GJK-algorithm was used to find collisions in the 3D space
 
 
 
